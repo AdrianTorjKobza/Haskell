@@ -1,6 +1,4 @@
-Program created during the "Learning Haskell Programming - LinkedIn Learning" course.
-
-The purpose of this simple program, is to check if a list of predefined words are part of a grid, by searching from left-to-right and right-to-left.
+Check if a list of predefined words are part of a grid, by searching from left-to-right and right-to-left.
 
 To also search from top-to-bottom and bottom-to-top, apply the "transpose" function against the grid.
 
