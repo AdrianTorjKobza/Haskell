@@ -1,4 +1,4 @@
-The purpose is to validate the credit card number.
+Validate the credit card number.
 
 The algorithm follows these steps:
 1. Double the value of every second digit beginning with the rightmost.
